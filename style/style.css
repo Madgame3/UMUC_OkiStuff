@@ -212,6 +212,8 @@ max-height:100%;
   margin: auto;
 
 }
-.fb-login-button{
-  float: right; 
+header div{
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
 }
