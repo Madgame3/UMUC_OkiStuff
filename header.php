@@ -1,8 +1,13 @@
 <?php include_once("analyticstracking.php") ?>
 <header>
   <a href="./index.php"><img alt="brand" src="./images/logo1.png"></a> 
-  <script src='scripts/login.js'></script>
-  <fb:login-button scope="public_profile,email,user_friends" onlogin="checkLoginState();">
-  </fb:login-button>
-  <div id="status"></div>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.9&appId=839841886165025";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-login-button" data-max-rows="1" data-size="large" data-button-type="continue_with" data-show-faces="false" data-auto-logout-link="true" data-use-continue-as="true"></div>
 </header>
