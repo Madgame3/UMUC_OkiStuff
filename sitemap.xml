@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>http://okistuff.com/</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/index.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/shop.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/item.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/about.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/howto.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/contact.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_clothing.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_tools.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_electronics.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_sports.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_home.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_baby.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_pets.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_business.php</loc>
+</url>
+<url>
+  <loc>http://okistuff.com/category_vehicles.php</loc>
+</url>
+</urlset>
