@@ -42,5 +42,8 @@ section h1{
   height: 225px;
 }
 #fb-medium{
+  display: inline;
+}
+#fb-large{
   display: none;
 }

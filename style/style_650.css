@@ -114,3 +114,6 @@ section #item-paragraph{
 #fb-large{
 display: none;
 }
+#fb-med{
+  display: inline;
+}
