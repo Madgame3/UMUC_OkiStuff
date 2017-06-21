@@ -4,11 +4,12 @@ background-color: white;
 box-sizing: border-box;
 }
 header{
-  width: 100%;
+  width: 95%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-content: center;
+  margin: auto;
 }
 a{
   color: #333;
