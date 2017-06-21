@@ -217,10 +217,3 @@ max-height:100%;
   max-height: 85%;
   margin: auto;
 }
-
-.fb-login-button-Medium{
-display: none;
-}
-.fb-login-button-Large{
-  display: inline;
-}
