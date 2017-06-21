@@ -4,6 +4,9 @@ background-color: white;
 box-sizing: border-box;
 }
 header{
+  display: flex;
+  flex-direction: row;
+  align-content: space-between;
 }
 a{
   color: #333;
@@ -211,9 +214,4 @@ max-height:100%;
   max-height: 85%;
   margin: auto;
 
-}
-header div{
-    display: flex;
-    flex-direction: row;
-    align-content: space-between;
 }
