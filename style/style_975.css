@@ -41,3 +41,6 @@ section h1{
   width: 225px;
   height: 225px;
 }
+#fb-medium{
+  display: none;
+}
